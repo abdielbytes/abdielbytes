@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **zenotes**
 
-- 🌱 I’m currently learning **Java, System Design and much more.**
+- 🌱 I’m currently learning **Rust, System Design and much more.**
 
 - 👯 I’m looking to collaborate on **anything web related**
 
